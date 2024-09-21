@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb160bb6-bf8e-4afa-9be7-9e0df812dea5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CSV to Json Converter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV to JSON converte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/draft.txt" afterDir="false" />
-    </list>
+    <list default="true" id="bb160bb6-bf8e-4afa-9be7-9e0df812dea5" name="Changes" comment="pushing the code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Koosha-Mehdipoor/CSV-to-JSON-converter.git",
+    "accountId": "f6cef0ac-1823-481f-9fe9-b0395f6d96cb"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -94,14 +90,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726913754302</updated>
-      <workItem from="1726913757408" duration="5015000" />
+      <workItem from="1726913757408" duration="5366000" />
     </task>
+    <task id="LOCAL-00001" summary="pushing the code">
+      <option name="closed" value="true" />
+      <created>1726920425035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726920425035</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pushing the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing the code" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CSV_to_Json_Converter$CSV_to_JSON_converte.coverage" NAME="CSV to JSON converte Coverage Results" MODIFIED="1726920012766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CSV_to_Json_Converter$CSV_to_JSON_converte.coverage" NAME="CSV to JSON converte Coverage Results" MODIFIED="1726920310917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,0 +1,16 @@
+
+import csv
+with open('/Users/koosha.mehdipoor@igenius.ai/Desktop/CODE/First_Milestone/CSV to Json Converter/csv_file.txt',newline= '\n') as csvfile:
+    filereader = csv.reader(csvfile, delimiter=',')
+    for row in filereader:
+        print(row)
+
+
+
+csv_reader = open('csv_file.txt','r')
+csv_content = csv_reader.readlines()
+columns = ["club", "city","country"]
+output = {}
+for i,columns in enumerate(columns):
+    output[columns] = csv_content[i]
+print(output)

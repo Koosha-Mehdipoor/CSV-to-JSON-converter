@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb160bb6-bf8e-4afa-9be7-9e0df812dea5" name="Changes" comment="pushing the code" />
+    <list default="true" id="bb160bb6-bf8e-4afa-9be7-9e0df812dea5" name="Changes" comment="adding context manager to make the code easier to read and better" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Koosha-Mehdipoor"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Koosha-Mehdipoor/CSV-to-JSON-converter.git",
@@ -90,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726913754302</updated>
-      <workItem from="1726913757408" duration="5366000" />
+      <workItem from="1726913757408" duration="6005000" />
     </task>
     <task id="LOCAL-00001" summary="pushing the code">
       <option name="closed" value="true" />
@@ -100,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726920425035</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding context manager to make the code easier to read and better">
+      <option name="closed" value="true" />
+      <created>1726921048624</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726921048624</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,9 +122,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pushing the code" />
-    <option name="LAST_COMMIT_MESSAGE" value="pushing the code" />
+    <MESSAGE value="adding context manager to make the code easier to read and better" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding context manager to make the code easier to read and better" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CSV_to_Json_Converter$CSV_to_JSON_converte.coverage" NAME="CSV to JSON converte Coverage Results" MODIFIED="1726920310917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CSV_to_Json_Converter$CSV_to_JSON_converte.coverage" NAME="CSV to JSON converte Coverage Results" MODIFIED="1726920995146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
